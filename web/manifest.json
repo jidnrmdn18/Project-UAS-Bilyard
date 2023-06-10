@@ -1,6 +1,6 @@
 {
-    "name": "uispeed_booking_apartment",
-    "short_name": "uispeed_booking_apartment",
+    "name": "UAS_project",
+    "short_name": "UAS_project",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
